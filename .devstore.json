@@ -4,5 +4,13 @@
     "bio": "I'm a Game Engineer and Artist and I'm currently a student at CMGT Saxion",
     "displayName": "Senn Malestein",
     "avatarUrl": ""
+  },
+  "overrides": {
+    "devstore": {
+      "images": [
+        "file:///C:/Users/s/Downloads/Afbeelding2.png",
+        "file:///C:/Users/s/Downloads/Afbeelding3.png"
+      ]
+    }
   }
 }
