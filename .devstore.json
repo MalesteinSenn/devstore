@@ -9,7 +9,16 @@
     "devstore": {
       "images": [
         "file:///C:/Users/s/Downloads/Afbeelding3.pdf"
-      ]
+      ],
+      "title": "devstore",
+      "description": "My DevDex configuration",
+      "demo": "",
+      "image": ""
     }
-  }
+  },
+  "theme": "default",
+  "featured": [],
+  "hidden": [
+    "SpaceCase"
+  ]
 }
